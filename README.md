@@ -1,7 +1,7 @@
 # NoDeathEXP-for-MCBE
 
 NoDeathEXP is an internal mod (DLL) for Minecraft Bedrock Editon that stops you from losing EXP upon death.
-##DISCLAMER
+## DISCLAMER
 THIS MOD MOST LIKELY WONT WORK IN MULTIPLAYER!!! (not tested)
 ## Installation
 Install the DLL file from releases or compile the source code yourself.
