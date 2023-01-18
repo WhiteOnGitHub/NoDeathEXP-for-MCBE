@@ -12,3 +12,5 @@ if you want to add anything to this feel free to fork the repo and make a pull r
 ## Supported-Versions
 -1.19.51 [Tested]
 -1.19.50 [Not tested]
+
+May work on 1.19.41 i havent checked.
