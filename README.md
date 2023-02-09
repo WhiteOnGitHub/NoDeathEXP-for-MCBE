@@ -6,9 +6,10 @@ THIS MOD MOST LIKELY WONT WORK IN MULTIPLAYER!!! (not tested)
 ## Installation
 Install the DLL file from releases or compile the source code yourself.
 ## Usage
-To use this mod your going to have to inject the DLL file into Minecraft (if your confused google DLL INJECTION) you can do this by using [MCBE-DLL-INJECTOR](https://github.com/ambiennt/MCBE-DLL-Injector) (any other injector should work fine).
+To use this mod your going to have to inject the DLL file into Minecraft (if your confused google DLL INJECTION) you can do this by using [MCBE-DLL-INJECTOR](https://github.com/ambiennt/MCBE-DLL-Injector) (any other injector should work fine). 
+ if you properly injected the DLL a console should appear that says some things (closing the console will close mc).
 ## Contributing
-if you want to add anything to this feel free to fork the repo and make a pull request. if you properly injected the DLL a console should appear that says some things (closing the console will close mc).
+if you want to add anything to this feel free to fork the repo and make a pull request.
 ## Supported-Versions
 -1.19.60 [Tested]
 -1.19.51 [Tested]
