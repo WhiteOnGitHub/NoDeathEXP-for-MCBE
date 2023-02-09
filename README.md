@@ -10,7 +10,7 @@ To use this mod your going to have to inject the DLL file into Minecraft (if you
 ## Contributing
 if you want to add anything to this feel free to fork the repo and make a pull request. if you properly injected the DLL a console should appear that says some things (closing the console will close mc).
 ## Supported-Versions
+-1.19.60 [Tested]
 -1.19.51 [Tested]
--1.19.50 [Not tested]
 
-May work on 1.19.41 i havent checked.
+May work on 1.19.41 and 1.19.50 i havent checked.
