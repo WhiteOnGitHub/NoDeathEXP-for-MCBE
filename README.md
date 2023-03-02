@@ -11,7 +11,7 @@ To use this mod your going to have to inject the DLL file into Minecraft (if you
 ## Contributing
 if you want to add anything to this feel free to fork the repo and make a pull request.
 ## Supported-Versions
--1.19.60 | 1.19.60 | 1.19.61 | 1.19.62 | 1.19.63 [Tested]
--1.19.51 | 1.19.51 [Tested]
+-1.19.60 | 1.19.60 | 1.19.61 | 1.19.62 | 1.19.63 
+-1.19.51 | 1.19.51 
 
 May work on older 1.19 versions...
